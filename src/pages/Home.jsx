@@ -1,5 +1,5 @@
 import React from 'react'
-import kid3 from '../assets/kid3.JPG'
+import kid3 from '../assets/kid3.jpg'
 import { Link } from 'react-router-dom';
 
 const Home = () => {

@@ -1,5 +1,5 @@
 import React from 'react'
-import kid1 from "../assets/kid1.JPG"
+import kid1 from "../assets/kid1.jpg"
 const Contact = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center">

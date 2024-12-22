@@ -1,5 +1,5 @@
 import React from 'react'
-import kid2 from '../assets/kid2.JPG'
+import kid2 from '../assets/kid2.jpg'
 const About = () => {
   return (
     <div className="min-h-screen bg-gray-100 flex items-center justify-center">
